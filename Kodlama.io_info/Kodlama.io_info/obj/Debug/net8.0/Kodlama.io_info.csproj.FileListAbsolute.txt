@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\bin\Debug\net8.0\Kodlama.io_info.exe
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\bin\Debug\net8.0\Kodlama.io_info.deps.json
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\bin\Debug\net8.0\Kodlama.io_info.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\bin\Debug\net8.0\Kodlama.io_info.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\bin\Debug\net8.0\Kodlama.io_info.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\refint\Kodlama.io_info.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\Kodlama.io_info.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\Kodlama.io_info\Kodlama.io_info\obj\Debug\net8.0\ref\Kodlama.io_info.dll
